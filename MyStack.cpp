@@ -5,6 +5,7 @@ class MyStack
 {
 int Stack[100], Top, MaxSize; 
 
+//Im adding a comment in your code
 
 public:
 
